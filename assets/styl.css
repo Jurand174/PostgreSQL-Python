@@ -1,0 +1,61 @@
+h1{
+    color:red;
+    text-align:center;
+	background-color: lightgray;
+}
+
+#tprze {
+	width:8vw;
+		display: inline-block;
+}
+#tprze2 {
+	width:70vw;
+		display: inline-block;
+}
+
+.dit{
+	display: inline-block;
+}
+#prof1 {
+	width:20vw;
+		display: inline-block;
+		border-style: solid;
+}
+#prof2 {
+	width:20vw;
+		display: inline-block;
+		border-style: solid;
+}
+
+#prof3 {
+	width:20vw;
+		display: inline-block;
+		border-style: solid;
+}
+
+#prof4 {
+	width:20vw;
+		display: inline-block;
+		border-style: solid;
+}
+
+.dist2{
+	margin-left:auto;
+	margin-right: auto;
+	align-items: center;
+
+}
+#r{
+    display:table-row;
+}
+#sub{
+    width: 10vw;
+    text-align: center;
+    display:inline-block;
+    margin: 0 auto;
+}
+
+body{
+    border-style:solid;
+
+}
